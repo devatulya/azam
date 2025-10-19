@@ -1,9 +1,3 @@
-# Stock Alert Dashboard
-Perfect — here’s the **complete, detailed `README.md` content** for your team, covering **frontend, backend, scraper, and alerts**.
-It’s written so *anyone (even outside your team)* can understand and explain how each part works in your Stock Alert Dashboard project.
-
----
-
 # 🧠 Stock Alert Dashboard — Detailed Team README
 
 **Team:**
